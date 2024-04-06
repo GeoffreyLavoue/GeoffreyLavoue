@@ -11,7 +11,7 @@ Passionné par la blockchain et le Web3, je travaille actuellement à obtenir ma
 - 🔭 Chef de projet en alternance, appliquant mes compétences en gestion de projet au sein d'un laboratoire innovant.
 - 🌱 Obtenant des certifications en développement Blockchain et PRINCE2 pour élargir mes compétences.
 - 👯 Fondant une startup axée sur le Web3 et la cybersécurité, visant à révolutionner le secteur.
-- 🤔 Explorant l'utilisation de Zero Knowledge Proofs pour améliorer la confidentialité et la sécurité dans les applications blockchain.
+- 🤔 Je cherche de l'aide sur l'utilisation de Zero Knowledge Proofs ainsi qu'une formation sur le RUST.
 - 💬 Rédigeant une thèse sur l'adoption de la blockchain dans le cadre des laboratoires 4.0.
 
 ## Compétences
@@ -27,6 +27,6 @@ Passionné par la blockchain et le Web3, je travaille actuellement à obtenir ma
 
 - **LinkedIn :** [https://www.linkedin.com/in/geoffrey-lavou%C3%A9-a9166819b/]
 
-Je suis toujours à la recherche de collaborations passionnantes et d'opportunités pour partager mes connaissances tout en apprenant des autres. N'hésitez pas à me contacter si vous souhaitez discuter de blockchain, de Web3, de cybersécurité, ou si vous avez besoin d'aide sur des projets liés à Zero Knowledge Proofs.
+Je suis toujours à la recherche de collaborations passionnantes et d'opportunités pour partager mes connaissances tout en apprenant des autres. N'hésitez pas à me contacter si vous souhaitez discuter de blockchain, de Web3, de cybersécurité, ou si vous avez des connaissances sur le Zero Knowledge Proofs ou sur le RUST.
 
 Merci de visiter mon profil GitHub !
