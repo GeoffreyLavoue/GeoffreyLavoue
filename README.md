@@ -25,7 +25,7 @@ Passionné par la blockchain et le Web3, je travaille actuellement à obtenir ma
 
 ## Me contacter
 
-- **LinkedIn :** [https://www.linkedin.com/in/geoffrey-lavou%C3%A9-a9166819b/]
+- **LinkedIn :** https://www.linkedin.com/in/geoffrey-lavou%C3%A9-a9166819b/
 
 Je suis toujours à la recherche de collaborations passionnantes et d'opportunités pour partager mes connaissances tout en apprenant des autres. N'hésitez pas à me contacter si vous souhaitez discuter de blockchain, de Web3, de cybersécurité, ou si vous avez des connaissances sur le Zero Knowledge Proofs ou sur le RUST.
 
