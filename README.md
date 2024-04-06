@@ -4,7 +4,7 @@
 
 Je suis Geoffrey, en Mastère Spécialisé Manager de Portefeuilles de Projet avec une option en stratégie. Fort d'un BTS en Systèmes Informatiques option Informatique et Réseaux, d'une Licence en Informatique, et d'un Master en Management des Infrastructures et Cybersécurité des SI, je suis actuellement chef de projet en alternance dans un laboratoire, où je mets en pratique mes connaissances tout en poursuivant mon Mastère Spécialisé.
 
-Passionné par la blockchain et le Web3, je travaille actuellement à obtenir ma certification de développeur Blockchain ainsi que la certification PRINCE2. En parallèle, je rédige une thèse sur l'intégration de la blockchain dans les laboratoires 4.0 et développe une startup dans le domaine du Web3 et de la cybersécurité.
+Passionné par la blockchain et le Web3, je travaille actuellement à obtenir ma certification de développeur Blockchain. En parallèle, je rédige une thèse sur l'intégration de la blockchain dans les laboratoires 4.0 et développe une startup dans le domaine du Web3 et de la cybersécurité.
 
 ## Ce que je fais
 
