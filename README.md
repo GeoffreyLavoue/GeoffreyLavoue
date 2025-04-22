@@ -2,8 +2,8 @@
 
 ## À propos de moi
 
-Je m'appelle Geoffrey, diplômé d’un Mastère Spécialisé Manager de Portefeuilles de Projet, option Stratégie.  
-Actuellement **Consultant en gestion de projet**, j’applique des méthodologies adaptées lors de missions sur des sites industriels à forts enjeux.
+Diplômé d’un Mastère Spécialisé Manager de Portefeuilles de Projet, option Stratégie.  
+Actuellement **Consultant en gestion de projet**, j’applique des méthodologies adaptées lors de missions sur des sites à forts enjeux.
 
 ---
 
