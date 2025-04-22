@@ -13,7 +13,7 @@ Actuellement **Consultant en gestion de projet**, j’applique des méthodologie
 - **Licence Informatique**  
 - **Master** Management des Infrastructures et Cybersécurité des SI  
 - **Mastère Spécialisé** Manager de Portefeuilles de Projet (Stratégie)  
-- Certification **Blockchain (Ethereum)**   
+- Certification **Blockchain Ethereum**   
 - Formation sur la **blockchain Solana**
 
 ---
