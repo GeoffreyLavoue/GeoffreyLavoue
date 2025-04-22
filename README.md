@@ -25,4 +25,4 @@ Je reste à jour sur les avancées, et souhaite, à terme, développer mes propr
 
 ---
 
-> **N’hésitez pas à me contacter pour échanger, collaborer, ou partager autour de la tech, la blockchain et l’innovation !**
+**N’hésitez pas à me contacter pour échanger, collaborer, ou partager autour de la tech, la blockchain et l’innovation !**
