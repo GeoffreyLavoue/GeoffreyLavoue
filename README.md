@@ -10,9 +10,9 @@ Actuellement **Consultant en gestion de projet**, j’applique des méthodologie
 ## 🎓 Parcours académique
 
 - **BTS Systèmes Informatiques** option Informatique et Réseaux  
-- **Licence Informatique**  
+- **Licence Informatique** option Cryptographie et Cybersécurité 
 - **Master** Management des Infrastructures et Cybersécurité des SI  
-- **Mastère Spécialisé** Manager de Portefeuilles de Projet (Stratégie)  
+- **Mastère Spécialisé** Manager de Portefeuilles de Projet option Stratégie
 - Certification **Blockchain Ethereum**   
 - Formation sur la **blockchain Solana**
 
